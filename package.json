@@ -1,0 +1,13 @@
+{
+  "name": "flappy-bird",
+  "version": "1.0.0",
+  "description": "Classic HTML5 Flappy Bird built with Javascript",
+  "scripts": {
+    "server": "npx http-server"
+  },
+  "author": "Eduard Chirila",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}

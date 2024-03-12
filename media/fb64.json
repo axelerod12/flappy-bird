@@ -1,0 +1,150 @@
+{
+  "frames": {
+    "sky.png": {
+      "frame": { "x": 0, "y": 0, "w": 640, "h": 836 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 640, "h": 836 },
+      "sourceSize": { "w": 640, "h": 836 }
+    },
+    "pipe.png": {
+      "frame": { "x": 645, "y": 0, "w": 108, "h": 1024 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 108, "h": 1024 },
+      "sourceSize": { "w": 108, "h": 1024 }
+    },
+    "ground.png": {
+      "frame": { "x": 0, "y": 833, "w": 640, "h": 127 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 640, "h": 127 },
+      "sourceSize": { "w": 640, "h": 127 }
+    },
+    "bird1.png": {
+      "frame": { "x": 758, "y": 545, "w": 85, "h": 60 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 85, "h": 60 },
+      "sourceSize": { "w": 85, "h": 60 }
+    },
+    "bird2.png": {
+      "frame": { "x": 848, "y": 545, "w": 85, "h": 60 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 85, "h": 60 },
+      "sourceSize": { "w": 85, "h": 60 }
+    },
+    "bird3.png": {
+      "frame": { "x": 938, "y": 545, "w": 85, "h": 60 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 85, "h": 60 },
+      "sourceSize": { "w": 85, "h": 60 }
+    },
+    "tap.png": {
+      "frame": { "x": 758, "y": 5, "w": 225, "h": 245 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 225, "h": 245 },
+      "sourceSize": { "w": 225, "h": 245 }
+    },
+    "logo.png": {
+      "frame": { "x": 758, "y": 675, "w": 535, "h": 110 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 535, "h": 110 },
+      "sourceSize": { "w": 535, "h": 110 }
+    },
+    "start.png": {
+      "frame": { "x": 988, "y": 5, "w": 235, "h": 65 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 235, "h": 65 },
+      "sourceSize": { "w": 235, "h": 65 }
+    },
+    "continue.png": {
+      "frame": { "x": 988, "y": 75, "w": 325, "h": 65 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 325, "h": 65 },
+      "sourceSize": { "w": 325, "h": 65 }
+    },
+    "moregames.png": {
+      "frame": { "x": 1030, "y": 545, "w": 385, "h": 65 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 385, "h": 65 },
+      "sourceSize": { "w": 385, "h": 65 }
+    },
+    "gameover.png": {
+      "frame": { "x": 758, "y": 790, "w": 480, "h": 95 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 480, "h": 95 },
+      "sourceSize": { "w": 480, "h": 95 }
+    },
+    "getready.png": {
+      "frame": { "x": 758, "y": 890, "w": 465, "h": 110 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 480, "h": 95 },
+      "sourceSize": { "w": 480, "h": 95 }
+    },
+    "table.png": {
+      "frame": { "x": 758, "y": 255, "w": 565, "h": 285 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 565, "h": 285 },
+      "sourceSize": { "w": 565, "h": 285 }
+    },
+    "medal0.png": {
+      "frame": { "x": 1328, "y": 5, "w": 125, "h": 125 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 125, "h": 125 },
+      "sourceSize": { "w": 125, "h": 125 }
+    },
+    "medal1.png": {
+      "frame": { "x": 1328, "y": 135, "w": 125, "h": 125 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 125, "h": 125 },
+      "sourceSize": { "w": 125, "h": 125 }
+    },
+    "medal2.png": {
+      "frame": { "x": 1328, "y": 265, "w": 125, "h": 125 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 125, "h": 125 },
+      "sourceSize": { "w": 125, "h": 125 }
+    },
+    "medal3.png": {
+      "frame": { "x": 1328, "y": 395, "w": 125, "h": 125 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 125, "h": 125 },
+      "sourceSize": { "w": 125, "h": 125 }
+    },
+    "new.png": {
+      "frame": { "x": 1002, "y": 158, "w": 95, "h": 35 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 95, "h": 35 },
+      "sourceSize": { "w": 95, "h": 35 }
+    },
+    "white.png": {
+      "frame": { "x": 1113, "y": 149, "w": 64, "h": 96 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+      "sourceSize": { "w": 64, "h": 96 }
+    }
+  },
+  "meta": {
+    "image": "fb64.png",
+    "format": "RGBA8888",
+    "size": { "w": 1458, "h": 1024 },
+    "scale": "1"
+  }
+}
