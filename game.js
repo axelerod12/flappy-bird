@@ -9371,7 +9371,7 @@
           (t.click = t.tap =
             function () {
               window.open(
-                "https://meow-games.com/en/?utm_source=" +
+                "https://freeonlinegame.app/en/?utm_source=" +
                   window.location.hostname.match(
                     /(?:[^.]+\.)?([^\/\.]+\.[^\/\.]+)/i
                   )?.[1] +
