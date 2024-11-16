@@ -30,4 +30,4 @@ npm run server
 
 ## Demo
 
-Play online at https://meow-games.com/en/game/flappy-bird/
+Play online at https://www.playmox.com/game/flappy-bird/
